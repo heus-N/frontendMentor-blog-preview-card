@@ -83,6 +83,12 @@ h1:hover{
 
 .attribution{
     position: absolute;
-    bottom: 0;
     left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.attribution__logos img{
+    margin: 0.5rem;
+    cursor: pointer;
 }
