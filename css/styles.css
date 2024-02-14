@@ -52,12 +52,12 @@ body{
     font-size: 1em;
 }
 
-h1{
+.information__title{
     font-size: 1.5em;
     cursor: pointer;
 }
 
-h1:hover{
+.information__title:hover{
     color: var(--yellow);
 }
 
