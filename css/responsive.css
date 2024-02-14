@@ -1,0 +1,10 @@
+@media(max-width:375px){
+
+    html{
+        font-size: 14px;
+    }
+
+    .container{
+        max-width: 320px;
+    }
+}
