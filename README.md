@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card
+# Frontend Mentor - Blog preview card. Abaixo está o modelo proposto pelo desafio.
 
 ![Modelo do desafio proposto pelo site "Frontend Mentor"](./design/desktop-preview.jpg)
 
